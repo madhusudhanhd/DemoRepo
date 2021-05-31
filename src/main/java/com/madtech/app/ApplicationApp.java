@@ -5,6 +5,7 @@ public class ApplicationApp {
 	private void add() {
 		// TODO Auto-generated method stub
 
+		System.out.println("Inside ADD method");
 	}
 
 	private void remove() {
